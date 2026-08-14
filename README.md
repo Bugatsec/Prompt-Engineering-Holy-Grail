@@ -1,3 +1,19 @@
+> ## 📌 Attribution & Preservation Notice
+>
+> **This repository is a preserved copy of the original work by [Zac Frulloni](https://github.com/zacfrulloni).**
+>
+> The original repository — `github.com/zacfrulloni/Prompt-Engineering-Holy-Grail` — is no longer publicly accessible. This copy was recovered from the Wayback Machine snapshot dated **February 28, 2026**, which was the most recent archived version available. It is being re-published here solely to keep this valuable community resource alive and accessible.
+>
+> - **Original author:** Zac Frulloni ([@zacfrulloni](https://github.com/zacfrulloni))
+> - **Original repo:** `github.com/zacfrulloni/Prompt-Engineering-Holy-Grail`
+> - **Original license:** MIT © 2024 Zac Frulloni
+> - **Snapshot date:** February 28, 2026
+> - **Recovered by:** *Ranveer Kohli ([@Bugatsec](https://github.com/Bugatsec))*
+>
+> All credit for the content, curation, and effort belongs entirely to the original author. If the original author or repo reappears and they wish this copy to be taken down, please open an issue and it will be removed immediately.
+>
+> ---
+
 Welcome to the Prompt Engineering Hub! This repository is a curated resource for anyone interested in learning and advancing prompt engineering techniques.
 
 ## Table of Contents
