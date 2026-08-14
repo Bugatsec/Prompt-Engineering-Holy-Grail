@@ -1,4 +1,4 @@
-# Contributing to [Repository Name]
+# Contributing to Prompt Engineering Holy Grail
 
 Thank you for considering a contribution to improve this repository! We aim to build a robust resource for prompt engineering and your input is valuable.
 
