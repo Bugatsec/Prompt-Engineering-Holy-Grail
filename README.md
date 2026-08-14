@@ -34,7 +34,7 @@
 >
 > ---
 
-Welcome to the Prompt Engineering Hub! This repository is a curated resource for anyone interested in learning and advancing prompt engineering techniques.
+Welcome to the Prompt Engineering Hub. This repository is a curated resource for learning and advancing prompt engineering techniques. It contains guides, tools, courses, communities, and references for anyone interested in prompt engineering and large language models.
 
 ## Table of Contents
 
