@@ -10,7 +10,7 @@
 > - **Snapshot date:** February 28, 2026
 > - **Recovered by:** *Ranveer Kohli ([@Bugatsec](https://github.com/Bugatsec))*
 >
-> All credit for the content, curation, and effort belongs entirely to the original author. If the original author or repo reappears and they wish this copy to be taken down, please open an issue and it will be removed immediately.
+> All credit for the content, curation, and effort belongs entirely to the original author. If the original author returns and requests changes, this repository will be reviewed and handled accordingly.
 >
 > ---
 
