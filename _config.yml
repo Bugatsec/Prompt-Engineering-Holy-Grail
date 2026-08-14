@@ -1,8 +1,8 @@
-
 # Site Metadata
 title: Prompt Engineering Holy Grail
 description: A comprehensive resource for prompt engineering best practices and techniques.
-url: "https://zacfrulloni.github.io/Prompt-Engineering-Holy-Grail/"
+
+url: "https://bugatsec.github.io"
 baseurl: "/Prompt-Engineering-Holy-Grail"
 
 author:
@@ -10,18 +10,20 @@ author:
   email: zacfrull@hotmail.com
 
 # Theme Configuration
-theme: minima
-# theme: bulma-clean-theme
-# remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
-# Plugins (Optional but Recommended)
+# Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-theme-minima
+  - jekyll-paginate
 
-# Exclude Files from Processing
+# Bulma Clean Theme options
+show_sidebar: false
+
+# Exclude Files
 exclude:
   - Gemfile
   - Gemfile.lock
