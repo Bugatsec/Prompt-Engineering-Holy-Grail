@@ -2,32 +2,35 @@
 <table>
    <tr>
       <td>
-         <img src="assets/images/deal-with-it-trailblazer.gif" width="160" alt="Anime decoration">
+         <img src="assets/images/deal-with-it-trailblazer.gif" width="140" alt="Anime decoration">
       </td>
       <td>
          <h1>ℙ𝕣𝕠𝕞𝕡𝕥 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 ℍ𝕠𝕝𝕪 𝔾𝕣𝕒𝕚𝕝</h1>
       </td>
       <td>
-         <img src="assets/images/deal-with-it-trailblazer.gif" width="160" alt="Anime decoration">
+         <img src="assets/images/deal-with-it-trailblazer.gif" width="140" alt="Anime decoration">
       </td>
    </tr>
 </table>
-
 </div>
 
 > ## 📌 Attribution & Preservation Notice
 >
-> **This repository is a preserved copy of the original work by [Zac Frulloni](https://github.com/zacfrulloni).**
+> **This repository is a preserved and maintained copy of the original work by [Zac Frulloni](https://github.com/zacfrulloni).**
 >
-> The original repository — `github.com/zacfrulloni/Prompt-Engineering-Holy-Grail` — is no longer publicly accessible. This copy was recovered from the Wayback Machine snapshot dated **February 28, 2026**, which was the most recent archived version available. It is being re-published here solely to keep this valuable community resource alive and accessible.
+> The original repository — `github.com/zacfrulloni/Prompt-Engineering-Holy-Grail` — is no longer publicly accessible. This repository was recovered from the Wayback Machine snapshot dated **February 28, 2026**, which was the most recent archived version available at the time of recovery.
+>
+> This project is being maintained and hosted by **Ranveer Kohli ([@Bugatsec](https://github.com/Bugatsec))** to keep this valuable community resource accessible, preserve the original work, and improve the experience where possible.
 >
 > - **Original author:** Zac Frulloni ([@zacfrulloni](https://github.com/zacfrulloni))
-> - **Original repo:** `github.com/zacfrulloni/Prompt-Engineering-Holy-Grail`
+> - **Original repository:** `github.com/zacfrulloni/Prompt-Engineering-Holy-Grail`
 > - **Original license:** MIT © 2024 Zac Frulloni
-> - **Snapshot date:** February 28, 2026
-> - **Recovered by:** *Ranveer Kohli ([@Bugatsec](https://github.com/Bugatsec))*
+> - **Recovery snapshot:** February 28, 2026
+> - **Recovered and maintained by:** Ranveer Kohli ([@Bugatsec](https://github.com/Bugatsec))
 >
-> All credit for the content, curation, and effort belongs entirely to the original author. If the original author returns and requests changes, this repository will be reviewed and handled accordingly.
+> All credit for the original content, research, and curation belongs to Zac Frulloni. Any updates, hosting, maintenance, or improvements made after recovery are maintained separately by Bugatsec.
+>
+> If the original author returns and requests changes regarding this preserved copy, the request will be reviewed and handled appropriately.
 >
 > ---
 
@@ -458,3 +461,6 @@ Disclosure: I am compensated through these affiliate partnerships, and this comp
 If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me via email at: zacfrull `[at]` hotmail `[dot]` com.
 
 Looking forward to hearing from you!
+> All credit for the content, curation, and effort belongs entirely to the original author. If the original author returns and requests changes, this repository will be reviewed and handled accordingly.
+>
+> ---
