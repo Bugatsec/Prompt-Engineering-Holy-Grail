@@ -62,6 +62,33 @@
       color: #111;
     }
 
+    .header-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 35px;
+    }
+
+    .header-content {
+      text-align: center;
+    }
+
+    .anime-side {
+      width: 240px;
+      height: auto;
+    }
+
+    @media (max-width: 700px) {
+      .header-container {
+        flex-direction: column;
+        gap: 15px;
+      }
+
+      .anime-side {
+       width: 200px;
+      }
+    }
+
     main {
       max-width: 900px;
       margin: 40px auto;
@@ -112,43 +139,52 @@
 
 <header>
 
-  <img src="../assets/images/deal-with-it-trailblazer.gif"
+  <div class="header-container">
+
+    <img src="../assets/images/deal-with-it-trailblazer.gif"
          class="anime-side"
          alt="Anime decoration">
 
-  <h1>
-    <a href="{{ '/' | relative_url }}">
-      Prompt Engineering Holy Grail
-    </a>
-  </h1>
 
-  <p>
-    A curated resource for prompt engineering, LLMs, and AI workflows.
-  </p>
+    <div class="header-content">
 
-  <!--<img src="../assets/images/deal-with-it-trailblazer.gif"
+      <h1>
+        <a href="{{ '/' | relative_url }}">
+          Prompt Engineering Holy Grail
+        </a>
+      </h1>
+
+      <p>
+        A curated resource for prompt engineering, LLMs, and AI workflows.
+      </p>
+
+
+      <a href="https://github.com/Bugatsec/Prompt-Engineering-Holy-Grail"
+         target="_blank"
+         class="button github-button">
+
+        Star on GitHub:
+        <span id="star-count">0</span>
+
+      </a>
+
+
+      <a href="https://github.com/Bugatsec/Prompt-Engineering-Holy-Grail"
+         target="_blank"
+         class="button coffee-button">
+
+        View Repository
+
+      </a>
+
+    </div>
+
+
+    <img src="../assets/images/deal-with-it-trailblazer.gif"
          class="anime-side"
-         alt="Anime decoration">-->
+         alt="Anime decoration">
 
-
-  <a href="https://github.com/Bugatsec/Prompt-Engineering-Holy-Grail"
-     target="_blank"
-     class="button github-button">
-
-    Star on GitHub:
-    <span id="star-count">0</span>
-
-  </a>
-
-
-  <a href="https://github.com/Bugatsec/Prompt-Engineering-Holy-Grail"
-     target="_blank"
-     class="button coffee-button">
-
-    View Repository
-
-  </a>
-
+  </div>
 
 </header>
 
