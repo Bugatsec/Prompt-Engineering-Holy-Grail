@@ -3,42 +3,6 @@ layout: default
 title: Prompt Engineering Holy Grail
 ---
 
-<div align="center">
-<table>
-   <tr>
-      <td>
-         <img src="assets/images/deal-with-it-trailblazer.gif" width="160" alt="Anime decoration">
-      </td>
-      <td>
-         <h1>ℙ𝕣𝕠𝕞𝕡𝕥 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 ℍ𝕠𝕝𝕪 𝔾𝕣𝕒𝕚𝕝</h1>
-      </td>
-      <td>
-         <img src="assets/images/deal-with-it-trailblazer.gif" width="160" alt="Anime decoration">
-      </td>
-   </tr>
-</table>
-</div>
-
-> ## 📌 Attribution & Preservation Notice
->
-> **This repository is a preserved and maintained copy of the original work by [Zac Frulloni](https://github.com/zacfrulloni).**
->
-> The original repository — `github.com/zacfrulloni/Prompt-Engineering-Holy-Grail` — is no longer publicly accessible. This repository was recovered from the Wayback Machine snapshot dated **February 28, 2026**, which was the most recent archived version available at the time of recovery.
->
-> This project is being maintained and hosted by **Ranveer Kohli ([@Bugatsec](https://github.com/Bugatsec))** to keep this valuable community resource accessible, preserve the original work, and improve the experience where possible.
->
-> - **Original author:** Zac Frulloni ([@zacfrulloni](https://github.com/zacfrulloni))
-> - **Original repository:** `github.com/zacfrulloni/Prompt-Engineering-Holy-Grail`
-> - **Original license:** MIT © 2024 Zac Frulloni
-> - **Recovery snapshot:** February 28, 2026
-> - **Recovered and maintained by:** Ranveer Kohli ([@Bugatsec](https://github.com/Bugatsec))
->
-> All credit for the original content, research, and curation belongs to Zac Frulloni. Any updates, hosting, maintenance, or improvements made after recovery are maintained separately by Bugatsec.
->
-> If the original author returns and requests changes regarding this preserved copy, the request will be reviewed and handled appropriately.
->
-> ---
-
 Welcome to the Prompt Engineering Hub! This repository is a curated resource for anyone interested in learning and advancing prompt engineering techniques.
 
 ## Table of Contents
