@@ -1,3 +1,20 @@
+<div align="center">
+<table>
+   <tr>
+      <td>
+         <img src="assets/images/deal-with-it-trailblazer.gif" width="160" alt="Anime decoration">
+      </td>
+      <td>
+         <h1>ℙ𝕣𝕠𝕞𝕡𝕥 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 ℍ𝕠𝕝𝕪 𝔾𝕣𝕒𝕚𝕝</h1>
+      </td>
+      <td>
+         <img src="assets/images/deal-with-it-trailblazer.gif" width="160" alt="Anime decoration">
+      </td>
+   </tr>
+</table>
+
+</div>
+
 > ## 📌 Attribution & Preservation Notice
 >
 > **This repository is a preserved copy of the original work by [Zac Frulloni](https://github.com/zacfrulloni).**
