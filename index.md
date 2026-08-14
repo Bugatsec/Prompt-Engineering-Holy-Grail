@@ -4,10 +4,6 @@ title: Prompt Engineering Holy Grail
 ---
 
 # Prompt Engineering Holy Grail
-> Originally created by Zac Frulloni.
->
-> This repository is preserved and maintained by Ranveer Kohli (Bugatsec) to keep this resource accessible and updated.
-
 Welcome to the Prompt Engineering Hub.
 This repository is a curated resource for learning and advancing prompt engineering techniques. It contains guides, tools, courses, communities, and references for anyone interested in prompt engineering and large language models.
 
