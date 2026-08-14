@@ -4,6 +4,7 @@ gem "jekyll", "~> 4.3.0"
 
 # The Jekyll Remote Theme plugin is required:
 gem "jekyll-remote-theme"
+gem "minima"
 
 # CSV/Logger if you’re on newer Rubies (3.4+):
 gem "csv"
