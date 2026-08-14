@@ -17,4 +17,4 @@ Maintainers are responsible for upholding this code of conduct and may take acti
 This Code of Conduct applies within all community spaces and when an individual represents the project.
 
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [YOUR_EMAIL@example.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at bugatsec@gmail.com. All complaints will be reviewed and investigated promptly and fairly.
