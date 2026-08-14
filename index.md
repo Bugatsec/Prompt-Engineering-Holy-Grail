@@ -3,7 +3,13 @@ layout: default
 title: Prompt Engineering Holy Grail
 ---
 
-Welcome to the Prompt Engineering Hub! This repository is a curated resource for anyone interested in learning and advancing prompt engineering techniques.
+# Prompt Engineering Holy Grail
+> Originally created by Zac Frulloni.
+>
+> This repository is preserved and maintained by Ranveer Kohli (Bugatsec) to keep this resource accessible and updated.
+
+Welcome to the Prompt Engineering Hub.
+This repository is a curated resource for learning and advancing prompt engineering techniques. It contains guides, tools, courses, communities, and references for anyone interested in prompt engineering and large language models.
 
 ## Table of Contents
 
@@ -401,32 +407,20 @@ We strive to maintain a respectful and inclusive community. Please read our Code
 Feedback and Suggestions
 If you have ideas for improvements, feel free to open an issue or submit a pull request. Constructive feedback is always welcome!
 
-## 8. Support My Work
+## 8. Support This Project
 
-Consider giving this repository a ⭐️ if you find it helpful, or share it with others who might benefit! Contributions are always welcome—your input and additions help make this resource better for the entire community. Some of the links here may contribute to supporting the project at no extra cost to you. If this project benefits you, consider [sponsoring me on GitHub](https://github.com/sponsors/zacfrulloni) or [buying me a coffee](https://www.buymeacoffee.com/zazacattack) to help support ongoing updates and improvements. 
+Consider giving this repository a ⭐️ if you find it helpful, or share it with others who might benefit! Contributions are always welcome—your input and additions help make this resource better for the entire community. Some of the links here may contribute to supporting the project at no extra cost to you. 
 
 If you'd like to reach out, feel free to check the [Contact Me section](#13-contact-me). Thank you for your support! 🙏
 
-## 9. Join Our Community on Discord
-
-Connect with other developers, AI enthusiasts, and prompt engineers! We’ve created a Discord server where you can share insights, ask questions, and stay updated on the latest in prompt engineering. It’s a place to collaborate, network, and learn together.
-
-[Join the Discord Server](https://discord.gg/BYKsABxW)
-
-Feel free to reach out if you have questions or suggestions in our **#general** or **#feedback** channels. Let’s build a community of knowledge and support.
-
-## 10. License
+## 9. License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-© 2024 [zac frulloni]. All rights reserved.
+Originally created by Zac Frulloni.
+Preserved and maintained by Ranveer Kohli(Bugatsec).
 
-## 11. Disclosure
+## 10. Disclosure
 
 Disclosure: I am compensated through these affiliate partnerships, and this compensation helps support the resources and ongoing work within this repository. Affiliate links are provided in sections containing resources, including but not limited to learning materials, tools, and community memberships. This disclosure appears on all applicable pages of this repository.
 
-## 12. Contact Me
-
-If you have any questions, feedback, or suggestions, feel free to reach out! You can contact me via email at: zacfrull `[at]` hotmail `[dot]` com.
-
-Looking forward to hearing from you!
