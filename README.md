@@ -2,13 +2,13 @@
 <table>
    <tr>
       <td>
-         <img src="assets/images/deal-with-it-trailblazer.gif" width="140" alt="Anime decoration">
+         <img src="assets/images/deal-with-it-trailblazer.gif" width="160" alt="Anime decoration">
       </td>
       <td>
          <h1>ℙ𝕣𝕠𝕞𝕡𝕥 𝔼𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 ℍ𝕠𝕝𝕪 𝔾𝕣𝕒𝕚𝕝</h1>
       </td>
       <td>
-         <img src="assets/images/deal-with-it-trailblazer.gif" width="140" alt="Anime decoration">
+         <img src="assets/images/deal-with-it-trailblazer.gif" width="160" alt="Anime decoration">
       </td>
    </tr>
 </table>
@@ -57,7 +57,7 @@ Welcome to the Prompt Engineering Hub! This repository is a curated resource for
    - [Prompt Testing and Experimentation](#prompt-testing-and-experimentation)
    - [Prompt Crafting Libraries](#prompt-crafting-libraries)
    - [Other](#other)
-4. [Prompt Libraries, Collections & Datasets](#4-prompt-libraries-collections--datasets)
+4. [Prompt Libraries, Collections & Datasets](#4prompt-libraries-collections--datasets)
    - [Prompt Libraries](#prompt-libraries)
    - [Prompt Collections](#prompt-collections)
    - [GPT Stores and Libraries](#gpt-stores-and-libraries)
