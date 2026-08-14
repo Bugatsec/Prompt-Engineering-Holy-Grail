@@ -39,6 +39,20 @@
     }
 
     .button {
+      display: inline-block;
+      margin: 6px;
+      padding: 12px 22px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: 0.2s;
+    }
+
+    .button:hover {
+      transform: translateY(-2px);
+    }
+
+    .button {
       display: inline-flex;
       align-items: center;
       gap: 8px;
@@ -86,7 +100,7 @@
       }
 
       .anime-side {
-        width: 200px;
+       width: 200px;
       }
     }
 
@@ -224,13 +238,13 @@ fetch("https://api.github.com/repos/Bugatsec/Prompt-Engineering-Holy-Grail")
 .then(response => response.json())
 .then(data => {
 
-  document.getElementById("star-count").textContent =
-  data.stargazers_count || "0";
+document.getElementById("star-count").textContent =
+data.stargazers_count || "0";
 
 })
 .catch(() => {
 
-  document.getElementById("star-count").textContent = "0";
+document.getElementById("star-count").textContent = "0";
 
 });
 
