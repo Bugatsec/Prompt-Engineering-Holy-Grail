@@ -73,7 +73,8 @@ Welcome to the Prompt Engineering Hub. This repository is a curated resource for
    - [Job Websites for Prompt Engineers](#job-websites-for-prompt-engineers)
    - [Freelance Platforms](#freelance-platforms)
 7. [Contributing & Code of Conduct](#7-contributing--code-of-conduct)
-8. [Support My Work](#8-support-my-work)
+8. [Support Orignal Creator](#8.-support-zacfrulloni-(orignal-creator))
+   - [Support Maintainer](#support-bugatsec-(maintainer))
 9. [Join Our Community on Discord](#9-join-our-community-on-discord)
 10. [License](#10-license)
 11. [Disclosure](#11-disclosure)
@@ -432,11 +433,21 @@ We strive to maintain a respectful and inclusive community. Please read our Code
 Feedback and Suggestions
 If you have ideas for improvements, feel free to open an issue or submit a pull request. Constructive feedback is always welcome!
 
-## 8. Support My Work
+## 8. Support zacfrulloni (Orignal Creator)
 
 Consider giving this repository a ⭐️ if you find it helpful, or share it with others who might benefit! Contributions are always welcome—your input and additions help make this resource better for the entire community. Some of the links here may contribute to supporting the project at no extra cost to you. If this project benefits you, consider [sponsoring me on GitHub](https://github.com/sponsors/zacfrulloni) or [buying me a coffee](https://www.buymeacoffee.com/zazacattack) to help support ongoing updates and improvements. 
 
-If you'd like to reach out, feel free to check the [Contact Me section](#13-contact-me). Thank you for your support! 🙏
+## Support Bugatsec (Maintainer)
+
+This preserved copy is maintained and hosted by **Bugatsec** to keep the original resource accessible and up to date.
+
+If you'd like to support the ongoing hosting and maintenance:
+
+**🇮🇳 [Buy Bugatsec a Chai](https://www.buymeachai.in/Bugatsec)**
+
+You can also support the project by ⭐️ starring the repository or sharing it with others.
+
+For questions, feedback, or suggestions, see the [Contact Me section](#13-contact-me).
 
 ## 9. Join Our Community on Discord
 
