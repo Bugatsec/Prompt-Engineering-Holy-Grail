@@ -73,8 +73,8 @@ Welcome to the Prompt Engineering Hub. This repository is a curated resource for
    - [Job Websites for Prompt Engineers](#job-websites-for-prompt-engineers)
    - [Freelance Platforms](#freelance-platforms)
 7. [Contributing & Code of Conduct](#7-contributing--code-of-conduct)
-8. [Support Orignal Creator](#8.-support-zacfrulloni-(orignal-creator))
-   - [Support Maintainer](#support-bugatsec-(maintainer))
+8. [Support Orignal Creator](#8-support-zacfrulloni-orignal-creator)
+   - [Support Maintainer](#support-bugatsec-maintainer)
 9. [Join Our Community on Discord](#9-join-our-community-on-discord)
 10. [License](#10-license)
 11. [Disclosure](#11-disclosure)
@@ -440,13 +440,10 @@ Consider giving this repository a ⭐️ if you find it helpful, or share it wit
 ## Support Bugatsec (Maintainer)
 
 This preserved copy is maintained and hosted by **Bugatsec** to keep the original resource accessible and up to date.
-
 If you'd like to support the ongoing hosting and maintenance:
-
 **🇮🇳 [Buy Bugatsec a Chai](https://www.buymeachai.in/Bugatsec)**
 
 You can also support the project by ⭐️ starring the repository or sharing it with others.
-
 For questions, feedback, or suggestions, see the [Contact Me section](#13-contact-me).
 
 ## 9. Join Our Community on Discord
